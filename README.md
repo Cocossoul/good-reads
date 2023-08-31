@@ -2,6 +2,8 @@ Bookmarks of blog posts I want to keep.
 
 # Ops
 
+Most good reads in this category are from [SRE Weekly](https://sreweekly.com)
+
 ## Incident
 
 ### Blameless Culture
